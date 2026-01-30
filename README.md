@@ -1,5 +1,3 @@
-# 👋 Kauê Santos
-
 🎓 Estudante | 💻 Tecnologia da Informação | 🔐 Cibersegurança  
 🐧 Linux • Dados • Hardware • Redes
 
@@ -41,7 +39,7 @@ Atuar na área de **Tecnologia**, aprendendo continuamente e construindo uma bas
 ---
 
 ## 📫 Contato
-
+- 👨🏾‍💻 GitHub: https://github.com/Santosxbk
 - 💻 GitHub: https://github.com/kauesantosDEV
 
 ---
