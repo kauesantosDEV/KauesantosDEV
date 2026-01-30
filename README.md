@@ -1,47 +1,91 @@
-🎓 Estudante | 💻 Tecnologia da Informação | 🔐 Cibersegurança  
-🐧 Linux • Dados • Hardware • Redes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff0000"/>
+
+<br>
+
+<div align="center" style="display:flex; flex-direction:row; justify-content:center; align-items:center; gap:20px;">
+
+  <div>
+    <h2>👋 Kauê Santos</h2>
+    <p>
+      🎓 Estudante • 💻 Tecnologia da Informação • 🔐 Cibersegurança<br>
+      🐧 Linux • Dados • Hardware • Redes
+    </p>
+  </div>
+
+</div>
+
+<br>
+
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ff0000&width=900&size=22&center=true&lines=From+Brazil;Student+of+Data+Analysis;Cybersecurity+Enthusiast;Welcome!" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/kauesantos-black?style=flat" />
+</div>
+
+<br>
 
 ---
 
-## 🧠 Quem sou eu
+<div align="center">
 
-Sou **Kauê Santos**, estudante do ensino médio com foco em **Tecnologia da Informação**.  
-Tenho interesse real em **cibersegurança**, **Linux**, **hardware**, **análise de dados** e **programação**, sempre estudando na prática.
+<table>
+<tr>
+<td width="50%" align="center">
 
-Meu objetivo é evoluir tecnicamente e atuar profissionalmente na área de tecnologia, começando como **Jovem Aprendiz** ou estágio.
+### 🔍 Interesses
+OSINT • Engenharia Social • Pentest  
+Análise de Dados • Web Dev
+
+### 🎓 Formação
+Ensino Médio + Estudos Técnicos
+
+### 🧠 Perfil
+Calmo • Analítico • Curioso
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚙️ Tecnologias & Ferramentas
+<p>
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</p>
+
+### 🖥️ Sistemas Operacionais
+<p>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🔐 Áreas de Interesse
+<br>
 
-- Cibersegurança (pentest em ambientes controlados)
-- OSINT e fundamentos de redes
-- Sistemas Linux (kernel, distros e otimização)
-- Análise e visualização de dados
-- Hardware e upgrades
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/?username=kauesantosDEV&show_icons=true&count_private=true&rank_icon=github&theme=dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesantosDEV&layout=compact&langs_count=10&theme=dark&hide_border=true"/>
+</div>
 
----
+<br>
 
-## 🛠️ Tecnologias & Ferramentas
+<div align="center">
+  <img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
 
-- **Sistemas:** Linux (Mint, Kali, Parrot)
-- **Segurança:** Pentest (básico), OSINT, redes
-- **Dados:** Power BI
-- **Dev & Outros:** Git, GitHub, Docker (básico)
-- **Hardware:** manutenção e desempenho
+<br>
 
----
-
-## 🎯 Objetivo Profissional
-
-Atuar na área de **Tecnologia**, aprendendo continuamente e construindo uma base sólida para o futuro em **cibersegurança (Red Team)**.
-
----
-
-## 📫 Contato
-- 👨🏾‍💻 GitHub: https://github.com/Santosxbk
-- 💻 GitHub: https://github.com/kauesantosDEV
-
----
-
-⚡ *Sempre aprendendo. Sempre evoluindo.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=100&section=footer"/>
