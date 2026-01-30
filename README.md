@@ -2,16 +2,12 @@
 
 <br>
 
-<div align="center" style="display:flex; flex-direction:row; justify-content:center; align-items:center; gap:20px;">
-
-  <div>
-    <h2>👋 Kauê Santos</h2>
-    <p>
-      🎓 Estudante • 💻 Tecnologia da Informação • 🔐 Cibersegurança<br>
-      🐧 Linux • Dados • Hardware • Redes
-    </p>
-  </div>
-
+<div align="center">
+  <h2>👋 Kauê Santos</h2>
+  <p>
+    🎓 Estudante • 💻 Tecnologia da Informação • 🔐 Cibersegurança<br>
+    🐧 Linux • Dados • Hardware • Redes
+  </p>
 </div>
 
 <br>
@@ -41,7 +37,7 @@ OSINT • Engenharia Social • Pentest
 Análise de Dados • Web Dev
 
 ### 🎓 Formação
-Ensino Médio (Em andamento)
+Ensino Médio (Em Andamento)
 
 ### 🧠 Perfil
 Calmo • Analítico • Curioso
