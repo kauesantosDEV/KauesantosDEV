@@ -41,7 +41,7 @@ OSINT • Engenharia Social • Pentest
 Análise de Dados • Web Dev
 
 ### 🎓 Formação
-Ensino Médio + Estudos Técnicos
+Ensino Médio (Em andamento)
 
 ### 🧠 Perfil
 Calmo • Analítico • Curioso
