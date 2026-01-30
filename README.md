@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <h2>👋 Kauê Santos</h2>
+  <h2> Olá,sou Kauê Santos</h2>
   <p>
     🎓 Estudante • 💻 Tecnologia da Informação • 🔐 Cibersegurança<br>
     🐧 Linux • Dados • Hardware • Redes
@@ -68,13 +68,6 @@ Calmo • Analítico • Curioso
 </div>
 
 ---
-
-<br>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/?username=kauesantosDEV&show_icons=true&count_private=true&rank_icon=github&theme=dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauesantosDEV&layout=compact&langs_count=10&theme=dark&hide_border=true"/>
-</div>
 
 <br>
 
